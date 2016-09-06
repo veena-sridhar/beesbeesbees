@@ -8,3 +8,4 @@ Grub.prototype.eat = function () {
 	return 'MUNCH MUNCH MUNCH';
 };
 
+//added comment
